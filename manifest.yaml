@@ -1,7 +1,7 @@
 version: 0.0.51
 type: plugin
-author: langgenius
-name: bedrock
+author: testauthor
+name: testname
 label:
   en_US: Amazon Bedrock
   ja_JP: Amazon Bedrock
